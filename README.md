@@ -43,7 +43,7 @@ Une simple calculatrice en ligne de commande écrite en Rust. Cette application 
 ```sh
 $ cargo run
 Entrez la première opérande: 5
-Entrez l'opérateur (+, -, *, /): +
+Entrez l\'opérateur (+, -, *, /): +
 Entrez la seconde opérande: 3
 Résultat: 8
 ```
@@ -63,4 +63,4 @@ Les contributions sont les bienvenues ! Veuillez ouvrir une issue ou soumettre u
 
 ### License
 
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+Ce projet est sous licence MIT. Voir le fichier [LICENCE](https://github.com/Laudial/Calculatrice-Rust/blob/main/LICENSE) pour plus de détails.
